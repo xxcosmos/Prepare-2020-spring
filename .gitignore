@@ -101,3 +101,8 @@ fabric.properties
 !/Prepare-2020-spring.iml
 !/Prepare-2020-spring.iml
 !/.idea/
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+!/.idea/
